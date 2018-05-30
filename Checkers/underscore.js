@@ -1,2 +1,2 @@
 var us=require('underscore');
-us.each(['coo','ran', function(fruit){console.log(fruit);}]);
+us.each(['coo','ran', function(funcx){console.log(funcx);}]);
