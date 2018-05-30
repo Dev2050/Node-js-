@@ -1,0 +1,17 @@
+{
+  "name": "inputcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "C:/Program Files/nodejs/node_modules/inputcheck/index.js",
+  "scripts": {
+    "test": "node test/test.js",
+	"main": "C:/Program Files/nodejs/node_modules/inputcheck/index.js",
+	"inputcheck":"C:/Program Files/nodejs/node_modules/inputcheck/inputcheck.js"
+  },
+  "keywords": [
+    "[\"command\"",
+    "\"check\"]"
+  ],
+  "author": "",
+  "license": "ISC"
+}
